@@ -1,0 +1,6 @@
+schedule Job1 25 7
+schedule Job2 10 5
+run 12
+schedule Job3 20 4
+run 25
+run 30

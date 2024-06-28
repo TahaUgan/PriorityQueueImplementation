@@ -1,0 +1,6 @@
+schedule Task1 10 5
+schedule Task2 15 3
+run 7
+schedule Task3 20 2
+run 10
+run 20
